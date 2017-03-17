@@ -79,4 +79,3 @@ C:\Users\krennova_3\Desktop\Limited\Limited\bin\Microsoft.Owin.Security.Twitter.
 C:\Users\krennova_3\Desktop\Limited\Limited\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\krennova_3\Desktop\Limited\Limited\obj\Debug\Limited.dll
 C:\Users\krennova_3\Desktop\Limited\Limited\obj\Debug\Limited.pdb
-C:\Users\krennova_3\Desktop\Limited\Limited\obj\Debug\Limited.csprojResolveAssemblyReference.cache

@@ -17,12 +17,13 @@ namespace Limited.Models
     {
         public int Id { get; set; }
 
-        [Required(ErrorMessage ="Enter Name")]
         public string Name { get; set; }
-        [Required(ErrorMessage = "Enter Contact Number")]
+    
         public string Contact_Number { get; set; }
 
-        [Required(ErrorMessage = "Enter Address")]
+      
         public string Address { get; set; }
+
+        public List<Contact> contactList { get; set; }
     }
 }
